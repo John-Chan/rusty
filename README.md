@@ -1,0 +1,2 @@
+# rusty
+Learn rust
